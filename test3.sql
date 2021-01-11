@@ -1,0 +1,1 @@
+SELECT * FROM tester3.episodes;
